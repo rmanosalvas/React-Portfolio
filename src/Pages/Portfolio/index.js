@@ -7,7 +7,7 @@ function Portfolio () {
             <br></br>
             <CardDeck>
             <Card>
-                <Card.Img variant="top" src="holder.js/100px160" />
+                <Card.Img variant="top" src="/images/NoteTaker.png" />
                 <Card.Body>
                 <Card.Title><a href='https://sleepy-brook-80020.herokuapp.com/'>Note Taker</a></Card.Title>
                 <Card.Text>
@@ -17,9 +17,9 @@ function Portfolio () {
                 </Card.Body>
             </Card>
             <Card>
-                <Card.Img variant="top" src="holder.js/100px160" />
+                <Card.Img variant="top" src="/images/FitnessTracker.png" />
                 <Card.Body>
-                <Card.Title>Workout Tracker</Card.Title>
+                <Card.Title><a href='https://github.com/rmanosalvas/Workout-Tracker'>Workout Tracker</a></Card.Title>
                 <Card.Text>
                     Be prepared the next time you are in the gym to start plugging in your workouts. This application allows you
                     to track your progress in the gym on a week to week basis by time spent and weight lifted!
@@ -27,7 +27,7 @@ function Portfolio () {
                 </Card.Body>
             </Card>
             <Card>
-                <Card.Img variant="top" src="holder.js/100px160" />
+                <Card.Img variant="top" src="/images/BurgerLog.png" />
                 <Card.Body>
                 <Card.Title><a href='https://morning-dawn-09099.herokuapp.com/'>Burger Log</a></Card.Title>
                 <Card.Text>
@@ -40,7 +40,7 @@ function Portfolio () {
             <br></br>
             <CardDeck>
                 <Card>
-                    <Card.Img variant="top" src="holder.js/100px160" />
+                    <Card.Img variant="top" src="/images/EmployeeManager.png" />
                     <Card.Body>
                     <Card.Title><a href='https://github.com/rmanosalvas/Employee_Manager'>Employee Manager</a></Card.Title>
                     <Card.Text>
@@ -50,7 +50,7 @@ function Portfolio () {
                     </Card.Body>
                 </Card>
                 <Card>
-                    <Card.Img variant="top" src="holder.js/100px160" />
+                    <Card.Img variant="top" src="/images/DateMatch.png" />
                     <Card.Body>
                     <Card.Title><a href='https://nameless-tundra-31560.herokuapp.com/'>Date Match</a></Card.Title>
                     <Card.Text>
@@ -59,7 +59,7 @@ function Portfolio () {
                     </Card.Body>
                 </Card>
                 <Card>
-                    <Card.Img variant="top" src="holder.js/100px160" />
+                    <Card.Img variant="top" src="/images/FitnessGuru.png" />
                     <Card.Body>
                     <Card.Title><a href='https://rmanosalvas.github.io/Project1/'>Fitness Guru</a></Card.Title>
                     <Card.Text>
