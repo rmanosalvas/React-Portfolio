@@ -1,5 +1,5 @@
 import React from 'react';
-import { Image, Row, Container, Col } from 'react-bootstrap';
+import { Image } from 'react-bootstrap';
 
 function Resume () {
     return (
