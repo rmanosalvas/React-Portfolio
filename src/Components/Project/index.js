@@ -8,7 +8,7 @@ function Project () {
             <br></br>
             <CardDeck>
             <Card>
-                <Card.Img variant="top" src="/images/NoteTaker.png" />
+                <Card.Img variant="top" src={require("../../images/NoteTaker.png")} />
                 <Card.Body>
                 <Card.Title><a href='https://sleepy-brook-80020.herokuapp.com/'>Note Taker</a></Card.Title>
                 <Card.Text>
@@ -18,7 +18,7 @@ function Project () {
                 </Card.Body>
             </Card>
             <Card>
-                <Card.Img variant="top" src="/images/FitnessTracker.png" />
+                <Card.Img variant="top" src={require("../../images/FitnessTracker.png")} />
                 <Card.Body>
                 <Card.Title><a href='https://polar-earth-87438.herokuapp.com/'>Workout Tracker</a></Card.Title>
                 <Card.Text>
@@ -28,7 +28,7 @@ function Project () {
                 </Card.Body>
             </Card>
             <Card>
-                <Card.Img variant="top" src="/images/BurgerLog.png" />
+                <Card.Img variant="top" src={require("../../images/BurgerLog.png")} />
                 <Card.Body>
                 <Card.Title><a href='https://morning-dawn-09099.herokuapp.com/'>Burger Log</a></Card.Title>
                 <Card.Text>
@@ -41,7 +41,7 @@ function Project () {
             <br></br>
             <CardDeck>
                 <Card>
-                    <Card.Img variant="top" src="/images/EmployeeManager.png" />
+                    <Card.Img variant="top" src={require("../../images/EmployeeManager.png")} />
                     <Card.Body>
                     <Card.Title><a href='https://github.com/rmanosalvas/Employee_Manager'>Employee Manager</a></Card.Title>
                     <Card.Text>
@@ -51,7 +51,7 @@ function Project () {
                     </Card.Body>
                 </Card>
                 <Card>
-                    <Card.Img variant="top" src="/images/DateMatch.png" />
+                    <Card.Img variant="top" src={require("../../images/DateMatch.png")} />
                     <Card.Body>
                     <Card.Title><a href='https://nameless-tundra-31560.herokuapp.com/'>Date Match</a></Card.Title>
                     <Card.Text>
@@ -60,7 +60,7 @@ function Project () {
                     </Card.Body>
                 </Card>
                 <Card>
-                    <Card.Img variant="top" src="/images/FitnessGuru.png" />
+                    <Card.Img variant="top" src={require("../../images/FitnessGuru.png")} />
                     <Card.Body>
                     <Card.Title><a href='https://rmanosalvas.github.io/Project1/'>Fitness Guru</a></Card.Title>
                     <Card.Text>

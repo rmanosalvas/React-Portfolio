@@ -7,7 +7,7 @@ function Home () {
             <Container>
                 <Row>
                     <Col md={{ span: 6, offset: 4 }}>
-                        <Image src="/images/Headshot.jpeg" roundedCircle />
+                        <Image src={require("../../images/Headshot.jpeg")} roundedCircle />
                     </Col>
                 </Row>
                 <Row>
