@@ -12,6 +12,7 @@ import Footer from './Components/Footer';
 import Home from './Pages/Home';
 import Portfolio from './Pages/Portfolio';
 import Contact from './Pages/Contact';
+import Resume from './Pages/Resume'
 
 
 function App() {
@@ -24,9 +25,10 @@ function App() {
                 <Route exact path='/' name='Home' component={Home} />
                 <Route path='/portfolio' name='Portfolio' component={Portfolio} />
                 <Route path='/contact' name='Contact' component={Contact} />  
+                <Route path='/resume' name='Resume' component={Resume} />  
               </Container>       
           </Switch>
-          {/* <Footer /> */}
+          <Footer />
       </Router>
     </>
   );
